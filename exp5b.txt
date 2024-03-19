@@ -2,5 +2,4 @@ jnkjk
 main
 {
 printf()
-scanf()
 }
